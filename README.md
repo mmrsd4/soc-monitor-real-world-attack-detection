@@ -112,11 +112,7 @@ Verifying connectivity between attacker and target system.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/01\_network\_connectivity.png" width="700"/>
-
-</p>
+<img src="screenshots/01_network_connectivity.png" width="700"/>
 
 
 
@@ -132,11 +128,7 @@ SSH and Apache services are started on the target server.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/02\_services\_running.png" width="700"/>
-
-</p>
+<img src="screenshots/02_services_running.png" width="700"/>
 
 
 
@@ -150,11 +142,7 @@ OWASP Juice Shop deployed and accessible via browser.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/03\_juice\_shop\_running.png" width="700"/>
-
-</p>
+<img src="screenshots/03_juice_shop_running.png" width="700"/>
 
 
 
@@ -170,12 +158,8 @@ System and web logs are actively monitored.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/04\_log\_sources.png" width="700"/>
-
-</p>
-
+<img src="screenshots/04_log_sources-1.png" width="700"/>
+<img src="screenshots/04_log_sources-2.png" width="700"/>
 
 
 
@@ -190,13 +174,9 @@ Logs configured for forwarding to Splunk SIEM.
 
 
 
-<p align="center">
+<img src="screenshots/05_forwarder_status.png" width="700"/>
 
-&#x20; <img src="screenshots/05\_forwarder\_status.png" width="700"/>
-
-</p>
-
-
+<img src="screenshots/06_splunk_port.png" width="700"/>
 
 
 
@@ -207,12 +187,7 @@ Logs configured for forwarding to Splunk SIEM.
 Logs successfully indexed in Splunk.
 
 
-
-<p align="center">
-
-&#x20; <img src="screenshots/07\_data\_ingestion.png" width="700"/>
-
-</p>
+<img src="screenshots/07_data_ingestion.png" width="700"/>
 
 
 
@@ -231,11 +206,7 @@ Hydra used to perform brute force attack on SSH service.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/08\_hydra\_attack.png" width="700"/>
-
-</p>
+<img src="screenshots/08_hydra_attack.png" width="700"/>
 
 
 
@@ -249,11 +220,7 @@ Multiple failed login attempts recorded in system logs.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/09\_failed\_logins.png" width="700"/>
-
-</p>
+<img src="screenshots/09_failed_logins.png" width="700"/>
 
 
 
@@ -283,11 +250,7 @@ index=\* "Failed password"
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/10\_bruteforce\_query.png" width="700"/>
-
-</p>
+<img src="screenshots/10_bruteforce_query.png" width="700"/>
 
 
 
@@ -303,11 +266,7 @@ Splunk alert generated for brute force activity.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/11\_alert\_triggered.png" width="700"/>
-
-</p>
+<img src="screenshots/11_alert_triggered.png" width="700"/>
 
 
 
@@ -321,11 +280,7 @@ SQL injection executed using Burp Suite.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/12\_sql\_injection\_burp.png" width="700"/>
-
-</p>
+<img src="screenshots/12_sql_injection_burp.png" width="700"/>
 
 
 
@@ -341,11 +296,7 @@ Malicious requests captured in Apache logs.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/13\_sql\_logs.png" width="700"/>
-
-</p>
+<img src="screenshots/13_sql_logs.png" width="700"/>
 
 
 
@@ -365,11 +316,7 @@ index=\*
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/14\_sql\_detection.png" width="700"/>
-
-</p>
+<img src="screenshots/14_sql_detection.png" width="700"/>
 
 
 
@@ -383,11 +330,7 @@ Centralized visualization of attack activity and alerts.
 
 
 
-<p align="center">
-
-&#x20; <img src="screenshots/15\_dashboard.png" width="750"/>
-
-</p>
+<img src="screenshots/15_dashboard.png" width="700"/>
 
 
 
