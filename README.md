@@ -64,7 +64,7 @@ Splunk Universal Forwarder (Log forwarding)
 
 
 
-add image
+<img src="architecture/lab_diagram.png" width="600"/>
 
 
 
